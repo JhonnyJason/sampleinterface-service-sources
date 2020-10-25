@@ -9,4 +9,12 @@ configmodule.initialize = () ->
     log "configmodule.initialize"
     return
 
+############################################################
+configmodule.response = "yes"
+
+############################################################
+configmodule.interfaceServers = 
+    sampleinterface: "https://localhost:6767"
+
+
 export default configmodule

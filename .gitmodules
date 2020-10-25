@@ -1,0 +1,6 @@
+[submodule "source/networkmodule"]
+	path = source/networkmodule
+	url = git@github.com:JhonnyJason/service-sources-restnetworkmodule.git
+[submodule "source/scimodule"]
+	path = source/scimodule
+	url = git@github.com:JhonnyJason/service-sources-restscimodule.git

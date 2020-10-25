@@ -10,6 +10,9 @@ debugmodule.modulesToDebug =
     unbreaker: true
     # configmodule: true
     # startupmodule: true
+    scimodule: true
+    scihandlers: true
+    networkmodule: true
 
 #region exposed variables
 
